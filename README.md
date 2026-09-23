@@ -53,7 +53,3 @@ On Windows:
 ```bash
 program.exe
 ```
-
-## Notes
-
-Compiled files such as `.exe` and `.o` are intentionally excluded from this repository. They can be regenerated from the source code.
