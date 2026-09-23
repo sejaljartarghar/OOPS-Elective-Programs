@@ -1,0 +1,11 @@
+# Compiled C/C++ files
+*.exe
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
