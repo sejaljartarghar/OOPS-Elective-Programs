@@ -23,6 +23,17 @@ OOPS-Elective-Programs/
 
 Each folder contains the C++ programs from the corresponding class/session.
 
+## Concepts Covered
+
+- C++ Fundamentals
+- Functions and Parameter Passing
+- Strings and Arrays
+- Classes and Objects
+- Constructors and Destructors
+- Static Members
+- Friend Functions
+- Inheritance
+
 ## Programming Language
 
 - C++
