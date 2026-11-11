@@ -1,6 +1,5 @@
-// program for binary operator overloading ... to concatinate two strings
+//Write a c++ program for binary operator overloading ... to concatinate two strings
 
-//write a c++ program to add two complex numbers with operator overloading.
 #include<iostream>
 using namespace std;
 
