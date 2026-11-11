@@ -11,17 +11,21 @@ int main()
        throw x;
        cout<<"After throw"<<endl; //never executed
     }
-     else if(y==0){
+    
+    else if(y==0){
         throw y;
          cout<<"After throw"<<endl; //never executed
-     }
+       }
     }
+        
     catch(int x){
-    cout<<"Exception Caught and x= "<<x<<endl;        //  this or
+        cout<<"Exception Caught and x= "<<x<<endl;        //  this or
     }
-     catch(int y){
-    cout<<"Exception Caught and y= "<<y<<endl;               // this will be executed
+    
+    catch(int y){
+        cout<<"Exception Caught and y= "<<y<<endl;               // this will be executed
     }
+    
     cout<<"After Catch"<<endl;
     return 0;
 }
