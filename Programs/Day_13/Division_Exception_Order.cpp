@@ -1,6 +1,6 @@
 /*write a cpp program for exception handling the divide by zero error...
-now we switch the throw and the return to see what happens ; now the exception is not handeled by us (the defind exception handle),
-it is handled by the system (eg. codeblox or vsccode or etc...) */
+now we switch the throw and the return to see what happens ; 
+the exception is not handeled by us (the defind exception handle),it is handled by the system (eg. codeblocks or VScode or etc...) */
 
 #include<iostream>
 using namespace std;
