@@ -1,5 +1,5 @@
 //write a cpp program to handle multiplication of 2 variables using exceptions such that the product is non-zero...
- // Sirs re modeled because throw is type differed like one throw per datatype
+ // Re-modeled because throw should be type differed (The arguments should have different data type)
 
 #include<iostream>
 using namespace std;
